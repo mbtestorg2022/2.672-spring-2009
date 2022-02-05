@@ -41,12 +41,57 @@ There will be 3 experiments. An independently written report by each student is 
 
 A letter grade (with pluses and minuses) will be given to each report. The final grade, however, is computed by assigning a number to each letter grade, and the following weighting is used.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 1st report (written) | 25% |
-| 2nd report (written) | 25% |
-| 3rd report (oral) | 25% |
-| Lab performance (participation, knowledge of the subject etc.) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1st report (written)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2nd report (written)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3rd report (oral)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab performance (participation, knowledge of the subject etc.)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 To encourage using the laboratory as learning environment, substantial weighting is assigned to the lab performance which is **subjectively** graded. **It should be noted that much of this grade is based on the communication between you and your instructor in class**. You should use the interaction to demonstrate your knowledge of the subject matter.
 
@@ -59,9 +104,69 @@ Calendar
 
 The calendar table illustrates the number of sessions devoted to each lab, and the due dates. See the [labs]({{< baseurl >}}/pages/labs) section for detailed information about each lab. Each lab group completes three out of seven possible experiments in a semester. The experiments involve different branches of Mechanical Engineering knowledge, so we try to assign the students for maximum exposure to heat transfer, dynamics, thermo, fluid mechanics, etc.
 
-| SES # | LABS | KEY DATES |
-| --- | --- | --- |
-| 1-4 | Lab 1 | &nbsp; |
-| 5-8 | Lab 2 | Lab 1 due in Ses #5 |
-| 9-11 | Lab 3 | Lab 2 due in Ses #9 |
-| 12 | &nbsp; | Oral presentation of Lab 3 during class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-4
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1 due in Ses #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 due in Ses #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation of Lab 3 during class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
