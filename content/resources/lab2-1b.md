@@ -7,6 +7,7 @@ image_metadata:
   caption: Detail of transfer line valve configuration.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Detail of transfer line valve configuration.
+parent_uid: e42e999c-9cd7-e012-66c9-5f22e3bad0ef
 resourcetype: Image
 title: Lab 2-1b
 uid: 66d38fa7-da2d-a85a-f8a8-c4ef1d6fec80

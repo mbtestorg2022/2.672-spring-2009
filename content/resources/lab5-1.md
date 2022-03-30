@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: 'Lab 6 apparatus: black tank as reactor vessel, pipes with valves to
     simulate breaks in the reactor vessel, red tank as simulated containment vessel.'
+parent_uid: 9c7a5a8e-96be-bc54-1007-a45bf3261147
 resourcetype: Image
 title: Lab 5-1
 uid: 1ceaea8d-aee9-ecf2-bbe5-7ff9d0eb5028

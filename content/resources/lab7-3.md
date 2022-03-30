@@ -7,6 +7,7 @@ image_metadata:
   caption: Each pipe is labeled with its length and inner diameter.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Each pipe is labeled with its length and inner diameter.
+parent_uid: f3654a02-f9c7-f959-3a2d-29255c70d745
 resourcetype: Image
 title: Lab 7-3
 uid: 5ab2f3de-d97a-f3dc-126b-cda459f93a25

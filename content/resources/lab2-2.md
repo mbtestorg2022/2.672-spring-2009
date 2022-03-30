@@ -7,6 +7,7 @@ image_metadata:
   caption: Before starting, purge the system of any pressurized water or air.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Before starting, purge the system of any pressurized water or air.
+parent_uid: e42e999c-9cd7-e012-66c9-5f22e3bad0ef
 resourcetype: Image
 title: Lab 2-2
 uid: 5de1e5b4-c455-fde5-62d9-ea964977913b

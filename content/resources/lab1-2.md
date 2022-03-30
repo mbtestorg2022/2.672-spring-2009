@@ -7,6 +7,7 @@ image_metadata:
   caption: Hot plate with silicon wafer in initial configuration (before heating).
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Hot plate with silicon wafer in initial configuration (before heating).
+parent_uid: 4de95e94-86ea-a80f-f18a-d7016769b4d9
 resourcetype: Image
 title: Lab 1-2
 uid: 7918c5f2-c82f-2c03-71be-b111bcbe2fac

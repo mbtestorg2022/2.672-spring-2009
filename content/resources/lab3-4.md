@@ -7,6 +7,7 @@ image_metadata:
   caption: Water is poured into the pipe before opening the solenoid.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Water is poured into the pipe before opening the solenoid.
+parent_uid: 94c97e21-4f49-3c35-e878-0062726a2272
 resourcetype: Image
 title: Lab 3-4
 uid: 18d14d9a-0e5d-36b1-8d5d-48a5aed5d86f

@@ -7,6 +7,7 @@ image_metadata:
   caption: Force exerted on the pipe is measured by an LVDT supported as a cantilever.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Force exterted on the pipe is measured by an LVDT supported as a cantilever.
+parent_uid: 94c97e21-4f49-3c35-e878-0062726a2272
 resourcetype: Image
 title: Lab 3-3
 uid: 6d25376a-51c5-b1be-6ff3-bf3eba583ed7

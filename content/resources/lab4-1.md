@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: 'Lab 5 apparatus: vertical transfer line, computer for instrumentation
     and data capture.'
+parent_uid: c4a5e473-7f7d-2689-af8f-aebfe779189c
 resourcetype: Image
 title: Lab 4-1
 uid: ae19db74-45bc-a702-e4fe-a3f7a4f7eb80

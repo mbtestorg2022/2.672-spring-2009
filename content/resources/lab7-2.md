@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: To begin the experiment, open the water supply valve (black). Select
     the desired pipe by opening its valve.
+parent_uid: f3654a02-f9c7-f959-3a2d-29255c70d745
 resourcetype: Image
 title: Lab 7-2
 uid: e18064fc-8048-6133-10ee-5991d4b60aab

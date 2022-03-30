@@ -7,6 +7,7 @@ image_metadata:
   caption: Then Valve A is opened, bringing water into the line.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Then Valve A is opened, bringing water into the line.
+parent_uid: e42e999c-9cd7-e012-66c9-5f22e3bad0ef
 resourcetype: Image
 title: Lab 2-4
 uid: 95730859-a9e4-9964-c65b-8997fedea9ba

@@ -7,6 +7,7 @@ image_metadata:
   caption: Detail view of solenoid valve and water entry.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare.'
   image-alt: Detail view of solenoid valve and water entry.
+parent_uid: 94c97e21-4f49-3c35-e878-0062726a2272
 resourcetype: Image
 title: Lab 3-2
 uid: 38eafec9-fe83-90e1-2da6-67213bcbf47e
